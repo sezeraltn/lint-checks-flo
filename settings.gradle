@@ -1,0 +1,4 @@
+include ':lint-checks-android',
+        ':lint-checks-flo',
+        ':lint-checks-android-rules',
+        ':lint-checks-flo-rules'

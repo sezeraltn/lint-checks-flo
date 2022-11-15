@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/build/
+/lint-checks-android/build/
+/lint-checks-android/build/intermediates/javac/debug/classes/
+/lint-checks-android-rules/build/
+/lint-checks-flo/build/
+/lint-checks-flo/build/intermediates/javac/debug/classes/
+/lint-checks-flo-rules/build/
